@@ -1,4 +1,4 @@
-module xKeiro/greenlight
+module github.com/xKeiro/greenlight
 
 go 1.21.0
 
